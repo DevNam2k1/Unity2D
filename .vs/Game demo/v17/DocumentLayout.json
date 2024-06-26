@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PTIT\\Semester 6\\C\u00F4ng ngh\u1EC7 ph\u1EA7n m\u1EC1m\\Game demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5F76B5-63EB-E3FF-76BB-28EE03DEFD33}|Assembly-CSharp.csproj|d:\\ptit\\semester 6\\c\u00F4ng ngh\u1EC7 ph\u1EA7n m\u1EC1m\\game demo\\assets\\scripts\\sight\\scenefader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5F76B5-63EB-E3FF-76BB-28EE03DEFD33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sight\\scenefader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5F76B5-63EB-E3FF-76BB-28EE03DEFD33}|Assembly-CSharp.csproj|d:\\ptit\\semester 6\\c\u00F4ng ngh\u1EC7 ph\u1EA7n m\u1EC1m\\game demo\\assets\\scripts\\manager scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5F76B5-63EB-E3FF-76BB-28EE03DEFD33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5F76B5-63EB-E3FF-76BB-28EE03DEFD33}|Assembly-CSharp.csproj|D:\\PTIT\\Semester 6\\C\u00F4ng ngh\u1EC7 ph\u1EA7n m\u1EC1m\\Game demo\\assets\\scripts\\manager scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5F76B5-63EB-E3FF-76BB-28EE03DEFD33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5F76B5-63EB-E3FF-76BB-28EE03DEFD33}|Assembly-CSharp.csproj|D:\\PTIT\\Semester 6\\C\u00F4ng ngh\u1EC7 ph\u1EA7n m\u1EC1m\\Game demo\\assets\\scripts\\enemy stuff\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5F76B5-63EB-E3FF-76BB-28EE03DEFD33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy stuff\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5F76B5-63EB-E3FF-76BB-28EE03DEFD33}|Assembly-CSharp.csproj|D:\\PTIT\\Semester 6\\C\u00F4ng ngh\u1EC7 ph\u1EA7n m\u1EC1m\\Game demo\\assets\\scripts\\enemy stuff\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5F76B5-63EB-E3FF-76BB-28EE03DEFD33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy stuff\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SceneFader.cs",
+              "DocumentMoniker": "D:\\PTIT\\Semester 6\\C\u00F4ng ngh\u1EC7 ph\u1EA7n m\u1EC1m\\Game demo\\Assets\\Scripts\\Sight\\SceneFader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sight\\SceneFader.cs",
+              "ToolTip": "D:\\PTIT\\Semester 6\\C\u00F4ng ngh\u1EC7 ph\u1EA7n m\u1EC1m\\Game demo\\Assets\\Scripts\\Sight\\SceneFader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sight\\SceneFader.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T15:26:35.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\PTIT\\Semester 6\\C\u00F4ng ngh\u1EC7 ph\u1EA7n m\u1EC1m\\Game demo\\Assets\\Scripts\\Manager Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager Scripts\\UIManager.cs",
+              "ToolTip": "D:\\PTIT\\Semester 6\\C\u00F4ng ngh\u1EC7 ph\u1EA7n m\u1EC1m\\Game demo\\Assets\\Scripts\\Manager Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager Scripts\\UIManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T11:48:28.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\PTIT\\Semester 6\\C\u00F4ng ngh\u1EC7 ph\u1EA7n m\u1EC1m\\Game demo\\Assets\\Scripts\\Manager Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager Scripts\\GameManager.cs",
+              "ToolTip": "D:\\PTIT\\Semester 6\\C\u00F4ng ngh\u1EC7 ph\u1EA7n m\u1EC1m\\Game demo\\Assets\\Scripts\\Manager Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager Scripts\\GameManager.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T11:47:45.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\PTIT\\Semester 6\\C\u00F4ng ngh\u1EC7 ph\u1EA7n m\u1EC1m\\Game demo\\Assets\\Scripts\\Enemy stuff\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy stuff\\Enemy.cs",
+              "ToolTip": "D:\\PTIT\\Semester 6\\C\u00F4ng ngh\u1EC7 ph\u1EA7n m\u1EC1m\\Game demo\\Assets\\Scripts\\Enemy stuff\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy stuff\\Enemy.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwB8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:26:22.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Zombie.cs",
+              "DocumentMoniker": "D:\\PTIT\\Semester 6\\C\u00F4ng ngh\u1EC7 ph\u1EA7n m\u1EC1m\\Game demo\\Assets\\Scripts\\Enemy stuff\\Zombie.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy stuff\\Zombie.cs",
+              "ToolTip": "D:\\PTIT\\Semester 6\\C\u00F4ng ngh\u1EC7 ph\u1EA7n m\u1EC1m\\Game demo\\Assets\\Scripts\\Enemy stuff\\Zombie.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy stuff\\Zombie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:09:08.541Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
